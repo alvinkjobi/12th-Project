@@ -38,5 +38,10 @@ cd 12th-Project
 ---
 
 ## Requirements
-Install Python packages if not already installed:
+## Install Python packages if not already installed:
 pip install mysql-connector-python matplotlib
+
+'''Setup MySQL
+Ensure MySQL server is running
+Use the root password root (or modify in code)
+Database: mysql (built-in default)'''
